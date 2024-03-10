@@ -1,0 +1,119 @@
+.mockup-phone {
+    border: 1rem solid;
+    max-width: 393px;
+    margin: auto;
+    background-color: $light-grayish-violet;
+}
+
+.dynamic-island {
+    border-radius: 25px 25px 0 0;
+    height: 20%;
+    background: linear-gradient(to right ,hsl(264, 100%, 61%), hsl(293, 88%, 52%));
+    .dynamic-island-detail {
+        background-color: $white;
+        height: 30px;
+        max-width: 60%;
+        margin: auto;
+        border-radius: 0 0 20px 20px;
+    }
+}
+
+
+.dynamic-island-content {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    .left-arrow {
+        img {
+            width: 10px;
+        }
+    }
+    .profile {
+        color: white;
+        width: 400px;
+    }
+}
+
+.dot {
+    span {
+        width: 3px;
+        height: 3px;
+        background-color: $white;
+        margin: 2px;
+        border-radius: 100%;
+    }
+}
+
+.chat {
+    font-size: 12px;
+    .chat-left {
+        width: 55%;
+        background-color: hsl(275, 46%, 93%);
+        color: $moderate-violet;
+        padding: 10px;
+        margin-left: 15px;
+        float: left;
+        p {
+            padding-left: 10px;
+            margin: 0;
+        }
+    }
+    .chat-right {
+        padding: 10px;
+        margin-right: 15px;
+        float: right;
+        &.chat-right-one {
+            display: inline-block;
+            margin-left: 100px;
+            img {
+                width: 25%;                
+            }
+        }
+        p {
+            padding-left: 10px;
+            margin: 0;
+        }
+    }
+    .chat-left-sp {
+        width: 70%;
+        background-image: linear-gradient(to left ,hsl(264, 100%, 61%), hsl(293, 88%, 52%));
+        color: $white;
+        padding: 15px;
+        margin-left: 15px;
+        border-radius: 1rem 1rem 1rem 6px;
+        .circle {
+            height: 25px;
+            width: 25px;
+            border-radius: 50%;
+            display: inline-block;
+            border: 2px solid $white;
+        }
+        .price {
+            font-weight: 600;
+            font-size: 25px;
+        }
+    }
+}
+
+.text-box {
+    width: 100%;
+    border-radius: 50px;
+    margin: 1rem;
+    border: 5px solid $white;
+    span {
+        color: $grayish-blue;
+        display: flex;
+        align-items: center;
+    }
+    .icon {
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        background-color: $very-dark-desaturated-violet;
+        overflow: hidden;
+        span {
+            font-size: 25px;
+            height: 100%;
+        }
+    }
+}

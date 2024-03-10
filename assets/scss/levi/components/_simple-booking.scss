@@ -1,0 +1,36 @@
+.s-booking {
+    max-width: 420px;
+    text-align: start;
+    h1 {
+        color: $very-dark-desaturated-violet;
+    }
+    p {
+        color: $dark-grayish-violet;
+    }
+}
+
+@include xs {
+    .s-booking {
+        margin: auto;
+        h1 {
+            margin: auto;
+            padding: 8px;
+        }
+        p {
+            text-align: center;
+        }
+    }
+}
+
+@include lg {
+    .s-booking {
+        margin: 0;
+        h1 {
+            margin: 0;
+            padding: 8px 0;
+        }
+        p {
+            text-align: start;
+        }
+    }
+}

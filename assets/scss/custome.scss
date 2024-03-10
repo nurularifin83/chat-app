@@ -1,0 +1,21 @@
+// Include any default variable overrides here (though functions won't be available)
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// Then add additional custom code here
+/*Functions and variable*/
+@import 'levi/variables';
+@import 'levi/functions';
+
+/*Base layout*/
+@import 'levi/base';
+@import 'levi/breakpoints';
+@import 'levi/grid';
+
+/*Actually color here*/
+
+/*Components (header, footer, ....)*/
+@import 'levi/components/header';
+@import 'levi/components/footer';
+@import 'levi/components/mobile-phone';
+@import 'levi/components/simple-booking';

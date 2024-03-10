@@ -1,0 +1,27 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Chapp app template built with boostrap and SASS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Responsive",
+    "HTML",
+    "CSS",
+    "SASS",
+    "Boostrap"
+  ],
+  "author": "Nurul Arifin",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-purgecss": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.71.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

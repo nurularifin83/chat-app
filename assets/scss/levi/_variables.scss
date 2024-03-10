@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+$font-family: 'Rubik', sans-serif;
+
+/*================================Colors=============================*/
+
+/**Primary*/
+
+//Text
+
+$pale-violet: hsl(276, 100%, 81%) !default; //(sub-heading at the top of the app UI)
+$moderate-violet: hsl(276, 55%, 52%) !default; //(chat on the left)
+$desaturated-dark-violet: hsl(271, 15%, 43%) !default; //(chat on the right)
+$grayish-blue: hsl(206, 6%, 79%) !default; //(placeholder text)
+$very-dark-desaturated-violet: hsl(271, 36%, 24%) !default; //(main heading)
+$dark-grayish-violet: hsl(270, 7%, 64%) !default; //(paragraph)
+
+//Gradients
+$light-magenta: hsl(293, 100%, 63%) !default;
+$light-violet: hsl(264, 100%, 61%) !default;
+
+//Secondary
+$white: hsl(0, 0%, 100%) !default;
+$light-grayish-violet: hsl(270, 20%, 96%) !default; //(app background)
+$very-dark-desaturated-violet: hsl(271, 36%, 24%) !default; //(submit button background)
+$very-light-magenta: hsl(289, 100%, 72%) !default; //(radio button outline)
+
+$font-size: 1rem !default;
