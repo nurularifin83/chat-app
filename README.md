@@ -19,7 +19,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Solution URL here](#)
-- Live Site URL: [Live site URL here](#)
+- Live Site URL: [Live site URL here](https://nurularifin83.github.io/chat-app/)
 
 ## My process
 
