@@ -1,6 +1,6 @@
 # Frontend Mentor - Chat app CSS illustration solution
 
-![Design preview for the Chat app CSS illustration coding challenge](#)
+![Design preview for the Chat app CSS illustration coding challenge](https://raw.githubusercontent.com/nurularifin83/chat-app/main/featured%20image.png)
 
 This is a solution to the [Chat app CSS illustration challenge on Frontend Mentor](#). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
