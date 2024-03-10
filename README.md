@@ -2,7 +2,7 @@
 
 ![Design preview for the Chat app CSS illustration coding challenge](https://raw.githubusercontent.com/nurularifin83/chat-app/main/featured%20image.png)
 
-This is a solution to the [Chat app CSS illustration challenge on Frontend Mentor](#). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Chat app CSS illustration challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-chat-app-page-using-bootstrap-oPPOOENKX2). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution URL here](#)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-chat-app-page-using-bootstrap-oPPOOENKX2)
 - Live Site URL: [Live site URL here](https://nurularifin83.github.io/chat-app/)
 
 ## My process
@@ -30,7 +30,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ### What I learned
 
-I learn about boostrap.
+I learn about bootstrap.
 
 ### Useful resources
 
